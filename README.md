@@ -1,2 +1,2 @@
 # cses-practice
-Questions from [CSES](https://cses.fi/problemset/list) practice set
+Accepted Solutions to the [CSES](https://cses.fi/problemset/list) Competitive Programming Problem Set
